@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Register for Kwabena</h1>
+    <h1> Register for DevOps programe with Tembo Guy Man</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Guys Are you ready Join pls </h1>
 
   
 </form>
