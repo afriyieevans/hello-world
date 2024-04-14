@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Register for DevOps program with Tembo Guy Man</h1>
+    <h1> Register for Online DevOps classes with Tembo</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter House address</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
