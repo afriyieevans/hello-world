@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Register for Evans is a certified DevOps Engineer</h1>
+    <h1> Register for Evans is a Certified DevOps Engineer</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
